@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guy</h1>
 <h3 align="center">A Guy that enjoys DevOps and Software Development</h3>
 
-- 🔭 I’m currently working on [Spaceship](https://www.spaceship.com.au)
-
 - 🌱 I’m currently learning **Large scale system design and multi-region deployments**
 
 - 💬 Ask me about **DevOps, SRE, Cloud, System Design**
